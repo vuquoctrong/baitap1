@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">appone</string>
+    <string name="btone"> Push Me</string>
+    <string name="btwo"> Click me</string>
+    <string name="tvname"> this is a test</string>
+    <string name="rbone">Red</string>
+    <string name="rbtwo">Blue</string>
+    <string name="rbthree">Yellow</string>
+    <string name="btRed"> Red</string>
+    <string name="btBlue"> Blue</string>
+    <string name="btYellow"> Yellow</string>
+    <string name="btRamdom"> RamdomColor</string>
+</resources>
